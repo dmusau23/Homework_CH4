@@ -1,3 +1,11 @@
+/**Class: TriangleTester
+ * @author Daniel Musau
+ * @version 1.0
+ * Course: ITEC 2150 Spring 2024
+ * Written: March 31, 2024
+ *
+ * This class contains the main method where we try and test different triangles
+ */
 package Exercice3;
 
 public class TriangleTester {

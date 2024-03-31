@@ -1,3 +1,14 @@
+/**Class: Array
+ * @author Daniel Musau
+ * @version 1.0
+ * Course: ITEC 2150 Spring 2024
+ * Written: March 31, 2024
+ *
+ * This class contains the main method and here we first, create and fill an array of size 50 with random double numbers,
+ * second, prompt the user to enter a number that will be the index to look for into the previous array,
+ * and then we print the value found in the array at that index while handling the different exceptions that may occur.
+ */
+
 package Exercice2;
 
 import java.util.Random;

@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d1e6c6b-1ae5-4560-a350-ba5359576f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercice3/TriangleTester.java" afterDir="false" />
+    <list default="true" id="8d1e6c6b-1ae5-4560-a350-ba5359576f2d" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercice1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercice2/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice2/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercice3/IllegalTriangleSideException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/IllegalTriangleSideException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercice3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice3/TriangleTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/TriangleTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -112,11 +116,24 @@
       <option name="presentableId" value="Default" />
       <updated>1711912756149</updated>
       <workItem from="1711912757213" duration="1953000" />
-      <workItem from="1711915096264" duration="3376000" />
+      <workItem from="1711915096264" duration="6160000" />
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <option name="closed" value="true" />
+      <created>1711918537641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711918537641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>
